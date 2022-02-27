@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Exchange Rates</string>
+    <string name="from_text">From:</string>
+    <string name="to_text">To:</string>
+    <string name="exception">Loading exception %1$s</string>
+    <string name="rate_placeholder">1.75</string>
+    <string name="from_placeholder">USD</string>
+    <string name="to_placeholder">EUR</string>
+</resources>
